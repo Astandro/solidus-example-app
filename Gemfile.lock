@@ -315,7 +315,6 @@ GEM
       kaminari-activerecord (~> 1.1)
       mini_magick (~> 4.10)
       monetize (~> 1.8)
-      paperclip (>= 4.2)
       paranoia (~> 2.4)
       railties (>= 5.2, < 7.0.x)
       ransack (~> 2.0)
